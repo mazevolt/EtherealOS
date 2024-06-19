@@ -11,6 +11,16 @@ The web is your world.
 - **Gaming and Software Compatibility:** Supporting both lightweight web games and resource-intensive software.
 - **Cross-Platform Support:** Designed to work seamlessly across various devices and operating systems.
 - **Open Source Collaboration:** Encouraging global developers to contribute, innovate, and integrate new features.
+- **Browser-First OS:** A seamless, web-based operating system.
+- **VR Integration:** Full compatibility with VR devices.
+- **Customization:** Thousands of customization options.
+- **Web3 Ready:** Incorporates blockchain for security and decentralized applications.
+- **Adaptive Mood Interface:** The system changes its interface and functionality based on your mood, enhancing productivity or providing emotional support as needed.
+  - Productivity Mode: Integrates all essential apps into a single tab to minimize distractions and maximize efficiency.
+  - Wellness Mode: Offers mood-lifting content and features to alleviate stress and improve mental well-being.
+  - Exam Mode: Blocks distractions and focuses solely on educational tools and resources to help you study effectively.
+- **Customizable Workspaces and Subscription-Based Apps** :  Tailor your workspace to be clean, minimal, maximal, or as tab-filled as your hardware can handle, with notifications when nearing hardware limits.
+- **Subscription-Based Apps:** Access a variety of apps through affordable subscriptions, optimized by our funding policies to ensure cost-effectiveness.
 
 ### Getting Started
 1. **Clone the repository:**
